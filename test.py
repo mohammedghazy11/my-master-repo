@@ -1,1 +1,1 @@
-print ("testv script")
+print ("test script")
